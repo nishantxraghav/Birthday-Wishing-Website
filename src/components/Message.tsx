@@ -11,16 +11,19 @@ const Message = () => {
         className="max-w-2xl bg-white/80 backdrop-blur-sm p-8 rounded-xl shadow-xl text-center"
       >
         <h1 className="text-3xl font-bold text-gray-800 mb-6">
-          Dear Madam Ji,
+          Dear Sanyaaa💫,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & i guess we know nothing about eachother but this
-          is my kindness to show you how much i value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories together.
-          I'm starting this new year with a new friend as you and i hope our friendship will last forever.
+          Never thought that one random message from my side would lead to this.
+I had never texted a girl first before and honestly, I didn’t know what I was doing. But somehow, with you, it all just felt right😭💗.
+From small talks to sharing random moments, jokes, thoughts✨💫 and it’s been a journey I didn’t expect but am truly grateful for💫✨.
+You’ve been a reason to smile more often, to try a little harder, and to create something I never thought I could.
+This isn’t just a birthday wish — it’s a little piece of how special you are to me🫂💗.
+Thank you for being the person you are.💗✨💫
+Happy Birthday once again! Hope this day is as lovely as you. 🎂💖
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, i wish you the happiest birthday
+          and on your special day, i wish you the happiest birthday💗💗💗🫂🫂🫂🫂💫💫💫✨✨✨
         </p>
       </motion.div>
     </div>
