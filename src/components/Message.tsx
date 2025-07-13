@@ -14,7 +14,7 @@ const Message = () => {
           Dear Sanyaaa💫,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Never thought that one random message from my side would lead to this.
+          Never thought that one random message from my side would find someone this special🫂💫✨.
 I had never texted a girl first before and honestly, I didn’t know what I was doing. But somehow, with you, it all just felt right😭💗.
 From small talks to sharing random moments, jokes, thoughts✨💫 and it’s been a journey I didn’t expect but am truly grateful for💫✨.
 You’ve been a reason to smile more often, to try a little harder, and to create something I never thought I could.
